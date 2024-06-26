@@ -25,7 +25,7 @@ R-squared (R²)
 The project successfully predicted bike rental counts based on environmental and seasonal settings using machine learning algorithms. The Random Forest Regressor provided the most accurate predictions among the models tested.
 
 ## License
-This project is licensed under the Apache 2.0 License.
+This project is licensed under the Apache License Version 2.0
 
 Author
 Kanchan Verma
